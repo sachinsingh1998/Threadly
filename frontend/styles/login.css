@@ -1,0 +1,30 @@
+
+#logged-in-page-content{
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+}
+
+#logged-in-header{
+    
+    flex: 0 0 15%;
+}
+
+#logged-in-content{
+    flex: 0 0 85%;
+}
+#logged-in-content-normal{
+    flex-direction: row;
+
+}
+#show-thread-list{
+    flex:0 0 20%;
+}
+#ind-thread-view{
+    flex:0 0 80%;
+}
+
+#update-admin-status{
+    max-width:50%;
+    padding-bottom:5%;
+}

@@ -1,0 +1,16 @@
+/* base styles, feel free to edit */
+@import url('login.css');
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial;
+}
+
+.card mb-4{
+    width:10%;
+}
+
+ul{
+    list-style-type: none;
+}
